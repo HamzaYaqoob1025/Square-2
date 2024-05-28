@@ -1,0 +1,10 @@
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\bin\Debug\Assigenment function.exe.config
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\bin\Debug\Assigenment function.exe
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\bin\Debug\Assigenment function.pdb
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\obj\Debug\Assigenment function.csproj.AssemblyReference.cache
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\obj\Debug\Assigenment_function.Form1.resources
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\obj\Debug\Assigenment_function.Properties.Resources.resources
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\obj\Debug\Assigenment function.csproj.GenerateResource.cache
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\obj\Debug\Assigenment function.csproj.CoreCompileInputs.cache
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\obj\Debug\Assigenment function.exe
+C:\Users\zain\Desktop\Hamza\Assigenment function\Assigenment function\obj\Debug\Assigenment function.pdb
